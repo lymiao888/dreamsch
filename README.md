@@ -1,6 +1,5 @@
 # problem1
- 
-## brief
+
 A subsequence of a string is a new string that is formed from the original string by deleting
 some (can be none) of the characters without disturbing the relative positions of the remaining
 characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
@@ -21,7 +20,6 @@ Explanation: The target string can be constructed as follows "xz" + "y" + "xz".
 
 # problem2
 
-## brief
 每输入一个字符串，检查括号是否匹配。如果只有左括号没有右括号，我们就在它下面标一个x，如果只有右括号，我们就在它下面标一个问号。每行为单独测试用例。
 
 ```input
